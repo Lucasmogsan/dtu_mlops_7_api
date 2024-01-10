@@ -24,5 +24,7 @@ See `main.py`
 
 Launch with:
 ```bash
-uvicorn --reload --port 8000 main:app
+uvicorn --reload --port 8000 fastapi_1:app
 ```
+
+Use [doc](http://localhost:8000/docs) and [redoc](http://localhost:8000/redoc) to test application with a simple UI.
