@@ -1,4 +1,5 @@
 requests
-curl
 fastapi
-uvicorn[standard]
+uvicorn
+transformers
+opencv-python
