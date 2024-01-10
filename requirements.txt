@@ -1,0 +1,4 @@
+requests
+curl
+fastapi
+uvicorn[standard]
